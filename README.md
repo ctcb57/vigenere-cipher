@@ -1,3 +1,6 @@
+# Vigenere Cipher by Charles Clark
+This project contains the ability to enter a message and a key and encrypt that message using the Vigenere cipher.  All relevant code is located within the App.js file within the src folder.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
